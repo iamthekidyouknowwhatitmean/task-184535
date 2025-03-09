@@ -46,9 +46,7 @@ use Bitrix\Main\Page\Asset;
 
 <body>
 <div id="panel"><?$APPLICATION->ShowPanel();?></div>
-  <!-- бесконечная загрузка, сайт не загружается 
-    <div class="site-loader"></div> -->
-
+<div class="site-loader"></div>
   <div class="site-wrap">
 
     <div class="site-mobile-menu">
